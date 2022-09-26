@@ -16,6 +16,7 @@ def check_predicates(x):
 statement = input_nums(3)
 
 if check_predicate(statement) == True:
-    print(f"Утверждение истинно")
+    print(f"Утверждение верно")
 else:
     print(f"Утверждение ложно")
+#end
