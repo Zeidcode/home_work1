@@ -11,7 +11,7 @@ def input_coord(x):
                     is_OK = False
                     print("Координата не должно быть равна 0 ")
             except ValueError:
-                print("Ты ошибся. Вводить надо числа!")
+                print("Надо вводиить числа!")
     return a
 
 
